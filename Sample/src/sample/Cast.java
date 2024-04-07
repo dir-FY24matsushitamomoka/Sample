@@ -8,8 +8,6 @@ public class Cast {
 	System.out.println(a/b);
 	//小数点以下は切り捨てになった
 	
-	System.out.println（(double)a /b）;
-	
 	
 	
 	
