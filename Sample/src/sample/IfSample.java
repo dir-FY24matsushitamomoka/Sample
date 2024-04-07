@@ -13,6 +13,8 @@ public class IfSample {
 	System.out.println("合格です！");
 	}
 	//60点以上の条件のため、falseとなり結果は表示されない
+	
+	
 
 	}
 
