@@ -32,6 +32,8 @@ public class Calc {
 	System.out.println(result6);
 	
 	
+
+	
      
       
 	
