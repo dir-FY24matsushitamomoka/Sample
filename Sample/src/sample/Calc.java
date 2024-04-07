@@ -28,6 +28,8 @@ public class Calc {
 	System.out.println(result5);
 	//１０＋１＝１１になるはずでは？
 	
+	var result6 = num1++;
+	System.out.println(result6);
 	
 	
      
