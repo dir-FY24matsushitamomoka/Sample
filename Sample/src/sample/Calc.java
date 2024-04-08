@@ -31,6 +31,8 @@ public class Calc {
 	var result6 = num1++;
 	System.out.println(result6);
 	
+	Sys
+	
 	
 
 	
