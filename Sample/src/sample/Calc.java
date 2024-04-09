@@ -1,7 +1,5 @@
 package sample;
 
-import java.awt.print.Printable;
-
 public class Calc {
 
 	public static void main(String[] args) {
@@ -31,7 +29,6 @@ public class Calc {
 	var result6 = num1++;
 	System.out.println(result6);
 	
-	Sys
 	
 	
 
